@@ -1,0 +1,5 @@
+Total Months is 86
+Total Amount of Profit and Losses is 38382578
+Average Change is -2315
+The greatest increase in losses is Feb-121926159
+The greatest decrease in losses is Sep-13-2196167
