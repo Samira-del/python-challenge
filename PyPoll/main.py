@@ -1,7 +1,9 @@
 import os, csv
 
-PyPall_csv = os.path.join("C:\Course work\python-challenge\PyPoll\Resources\election_data.csv")
-Pypall_txt = os.path.join("C:\Course work\python-challenge\PyPoll\Pypall.txt")
+PyBank_csv = os.path.join("Resources", "election_data.csv")
+PyBank_txt = os.path.join("Pypall.txt")
+#PyPall_csv = os.path.join("C:\Course work\python-challenge\PyPoll\Resources\election_data.csv")
+#Pypall_txt = os.path.join("C:\Course work\python-challenge\PyPoll\Pypall.txt")
 
 Vote_dic = {}
 Total_Vote = 0

@@ -1,10 +1,10 @@
 import os
 import csv
 
-#PyBank_csv = os.path.join("..", "Resources", "budget_data.csv")
-#PyBank_txt = os.path.join("..", "PyBank.txt")
-PyBank_csv = os.path.join("C:/Course work/python-challenge/PyBank/Resources/budget_data.csv")
-PyBank_txt = os.path.join("C:/Course work/python-challenge/PyBank/PyBank.txt")
+PyBank_csv = os.path.join("Resources", "budget_data.csv")
+PyBank_txt = os.path.join("PyBank.txt")
+#PyBank_csv = os.path.join("C:/Course work/python-challenge/PyBank/Resources/budget_data.csv")
+#PyBank_txt = os.path.join("C:/Course work/python-challenge/PyBank/PyBank.txt")
 
 Total_months = 0
 Total = 0
